@@ -1,5 +1,5 @@
 # jnuc2016
-Profiles: An IT Admin’s Best Friend
+Repo for links from the JNUC 2016 talk "Profiles: An IT Admin’s Best Friend"
 
 Links from the talk, with quotes where applicable & other helpful links.
 
