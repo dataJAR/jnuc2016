@@ -4,8 +4,10 @@ Repo for links from the JNUC 2016 talk "Profiles: An IT Admin’s Best Friend"
 Links from the talk, with quotes where applicable & other helpful links.
 
 # Talk Video
-
 https://www.youtube.com/watch?v=JbukZ0SNafY
+
+# Slides
+https://github.com/dataJAR/jnuc2016/raw/master/Profiles%20An%20IT%20Admin's%20Best%20Friend.pdf
 
 # Identification
 https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html#//apple_ref/doc/uid/20001431-102070
